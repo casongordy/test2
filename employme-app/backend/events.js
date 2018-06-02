@@ -2,19 +2,25 @@ module.exports = [
     {
       id: 1,
       title: 'Cut Grass',
-      detail: 'In Marietta',
-      date: '2018-06-21'
+      description: 'Input',
+      price: 22,
+      currentDate: '06-01-2012',
+      location: 'input'
     },
     {
       id: 2,
       title: 'Paint House',
-      detail: 'Need done this weekend',
-      date: '2017-06-21'
+      description: 'Need done this weekend',
+      price: 44,
+      currentDate:   '06-25-2018',
+      location: 'input'
     },
     {
       id: 3,
       title: 'Walk Dog',
-      detail: 'Downtown Atlanta'
-      date: '2017-06-13'
+      description: 'Input',
+      price: 10,
+      currentDate:   '2017-06-13',
+      location: 'input'
     }
   ];
